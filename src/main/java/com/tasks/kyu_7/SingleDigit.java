@@ -2,8 +2,6 @@ package com.tasks.kyu_7;
 
 //link - https://www.codewars.com/kata/5a7778790136a132a00000c1
 
-//todo должна быть рекурсия
-
 public class SingleDigit {
 
     static int singleDigit(int n) {
